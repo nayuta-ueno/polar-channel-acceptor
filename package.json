@@ -1,0 +1,17 @@
+{
+  "name": "chanacceptor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chanacceptor.js",
+  "scripts": {
+    "start": "node chanacceptor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.8.11",
+    "@grpc/proto-loader": "^0.7.5",
+    "fs": "^0.0.1-security"
+  }
+}
